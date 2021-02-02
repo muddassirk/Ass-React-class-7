@@ -70,6 +70,7 @@ function Room() {
         Post:
         <input className="ml-2 mt-2 form-control" required type="ml-1 text" id="userPOst" placeholder="What happening" />
         <button className="ml-2 mt-2 btn btn-outline-primary" onClick={addPost}> Add</button>
+        <hr/>
 
 
         {
